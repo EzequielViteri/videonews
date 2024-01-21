@@ -114,6 +114,11 @@ main {
 }
 
 @media screen and (max-width: 480px) {
+
+    .titulos h2 {
+        text-align: center;
+    }
+
     .navbar {
         padding: 20px;
     }
