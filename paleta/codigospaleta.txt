@@ -1,0 +1,10 @@
+#22092C Negro
+#872341 Granate
+#BE3144 Rojo
+#F05941 Naranja
+ 
+Paleta 2 
+#F9F5EB Beige 
+#E4DCCF Gris 
+#EA5455 Rojo
+#002B5B Armada
